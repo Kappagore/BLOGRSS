@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Contributing to the project
+
+Start contributing:
+
+1. `Fork` this repository.
+2. Run `npm i` in your terminal.
+3. Run `npm start` to spin up a development server.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
