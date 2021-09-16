@@ -3,8 +3,9 @@
 Start contributing:
 
 1. `Fork` this repository.
-2. Run `npm i` in your terminal.
-3. Run `npm start` to spin up a development server.
+2. `Clone` your fork with [GitHub Desktop](https://desktop.github.com/) or [VSCode](https://code.visualstudio.com/)
+3. Run `npm i` in your terminal.
+4. Run `npm start` to spin up a development server.
 
 We use [React Bootstrap](https://react-bootstrap.github.io) and [React Router](https://reactrouter.com/web/guides/quick-start).
 
