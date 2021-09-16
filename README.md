@@ -6,6 +6,8 @@ Start contributing:
 2. Run `npm i` in your terminal.
 3. Run `npm start` to spin up a development server.
 
+We use [React Bootstrap](https://react-bootstrap.github.io) and [React Router](https://reactrouter.com/web/guides/quick-start).
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
